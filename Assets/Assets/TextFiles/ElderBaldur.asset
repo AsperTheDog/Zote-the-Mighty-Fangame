@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af8382e24abcaff4788f0a8df224b6b2, type: 3}
+  m_Name: ElderBaldur
+  m_EditorClassIdentifier: 
+  name: Elder Baldur
+  subtitle: 
+  states:
+  - name: FirstInspect
+    sentences:
+      myList:
+      - Hi there, are you a knight? I've lost my children and I need help.
+      - I'm desperate. Could you help me find them? They must be hiding in a cove
+        or pit.
+      - Please, bring them to me. I don't know what would I do without them.
+      - I'll wait for you here. Please hurry up!
+  - name: LoopInspect
+    sentences:
+      myList:
+      - I'll wait for you here. Please hurry up!
+  - name: FirstMissionComplete
+    sentences:
+      myList:
+      - Oh! You found them all. Thank you very much!
+      - I cannot be grateful enough for your help.
+  - name: LoopMissionComplete
+    sentences:
+      myList:
+      - I cannot be grateful enough for your help.
