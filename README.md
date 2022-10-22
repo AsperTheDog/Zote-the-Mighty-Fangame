@@ -6,7 +6,7 @@ Since we use several propietary assets in this project we are not able to upload
 
 ## Additional resources
 
-[Twitter account](https://twitter.com/zote_fangame?lang=en)
+[Twitter account](https://twitter.com/zote_fangame?lang=en)  
 [Youtube channel](https://www.youtube.com/channel/UCLa6MkCwjkUNvJEwup41A0A?app=desktop)
  - [Early Alpha Trailer](https://youtu.be/q4P7AiaYRQ4)
  - [Early Alpha Gameplay](https://youtu.be/Zn65SlHgJqo)
