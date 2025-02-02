@@ -1,5 +1,5 @@
 # Zote-the-Mighty-Fangame
-This repository is an archive of the fangame project made by [Guillermo Muñoz](https://github.com/AsperTheDog) and [Raúl Martín](https://github.com/626raul626). It is not the active development repository as that one is private.
+This repository is an archive of the fangame project made by [Guillermo Muñoz](https://github.com/AsperTheDog) and [Raúl Martín](https://github.com/626raul626). It is not the development repository as that one is private.
 This project has been discontinued as we have moved on to making our own independent games.
 
 ## Important notice
